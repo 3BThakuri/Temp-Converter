@@ -1,4 +1,4 @@
-# 🌡️ Temp Converter
+# 🌡️ Temperature Converter
 
 A simple and user-friendly **Temperature Converter** that allows you to easily convert temperatures between **Celsius (°C)**, **Fahrenheit (°F)**, and **Kelvin (K)**. 🚀  
 
@@ -19,7 +19,7 @@ A simple and user-friendly **Temperature Converter** that allows you to easily c
 
 
 
-### **1️⃣ Clone the Repository**
+### ** Clone the Repository**
 
 ```sh
 git clone https://github.com/3bthakuri/Temp-Converter.git
