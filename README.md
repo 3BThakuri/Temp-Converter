@@ -19,7 +19,7 @@ A simple and user-friendly **Temperature Converter** that allows you to easily c
 
 
 
-### ** Clone the Repository**
+### Clone the Repository
 
 ```sh
 git clone https://github.com/3bthakuri/Temp-Converter.git
