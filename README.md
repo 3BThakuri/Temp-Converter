@@ -4,7 +4,7 @@ A simple and user-friendly **Temperature Converter** that allows you to easily c
 
 ## 📌 Features
 - 🔄 Real-time temperature conversion
-- 🎨 Light & Dark mode toggle
+- 🎨 Light & Dark mode
 - 🧼 Clear all inputs with a single click
 - 📱 Responsive design for all devices
 - ⚡ Fast and lightweight
